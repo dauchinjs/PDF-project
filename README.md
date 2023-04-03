@@ -12,6 +12,7 @@ This project is a single page app with thumbnails of 20 PDF documents per page. 
 This project also includes PHPUnit testing for each back-end controller function.
 
 ## Demonstration
+(![image](https://user-images.githubusercontent.com/93677423/229494687-e4d8ae8d-dcaa-4068-9eb7-09e02cd3c24b.png)
 
 ## Technologies
 

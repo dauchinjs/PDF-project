@@ -31,7 +31,7 @@ Project is created with:
 5. Run migrations `php artisan migrate`
 6. Before running tests:
     * make a test database
-    * add the necessary credentials for DB_TEST in `.env` file
+    * add the necessary credentials for DB_TEST_... in `.env` file
     * at the bottom of the file add a path to a PDF document (less than 100kB)
     * in terminal use `php artisan migrate --database={test-database}`
 7. Run the local server using `php artisan serve`

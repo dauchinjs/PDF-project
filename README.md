@@ -29,6 +29,10 @@ Project is created with:
 3. Create a database and rename the `.env.example` file to `.env` and add your credentials
 4. Because you ran `npm run dev` open a new terminal and generate an app key using `php artisan key:generate`
 5. Run migrations `php artisan migrate`
-6. Before running tests, make sure you have added your necessary credentials and at the bottom of the file add a path to a PDF document (less than 100kB)
+6. Before running tests:
+    6.1 make a test database
+    6.2 add the necessary credentials for DB_TEST in `.env` file
+    6.3 at the bottom of the file add a path to a PDF document (less than 100kB)
+    6.4 in terminal use `php artisan migrate --database={test-database}`
 7. Run the local server using `php artisan serve`
 8. To run tests use `php artisan test`

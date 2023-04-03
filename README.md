@@ -13,6 +13,15 @@ This project also includes PHPUnit testing for each back-end controller function
 
 ## Demonstration
 
+### Pagination, delete a PDF document, single view of a PDF document
+[paginate-delete-single-view.webm](https://user-images.githubusercontent.com/93677423/229502075-b41e3cf7-e6a8-408a-818f-4cf8b0b5a049.webm)
+
+### Upload a PDF file with drag and drop
+[upload-drag&drop.webm](https://user-images.githubusercontent.com/93677423/229502204-4d6ae619-ce31-49d7-b417-4bd4cac118f3.webm)
+
+### Upload a PDF file manually, displays error message if size is too big or something else went wrong
+[upload-manual.webm](https://user-images.githubusercontent.com/93677423/229502300-a0fb84aa-7f7e-43c4-8008-608c81e7d2e1.webm)
+
 ## Technologies
 
 Project is created with:

@@ -34,5 +34,6 @@ Project is created with:
     * add the necessary credentials for DB_TEST_... in `.env` file
     * at the bottom of the file add a path to a PDF document (less than 100kB)
     * in terminal use `php artisan migrate --database={test-database}` (test-database = your test database)
+    * in `phpunit.xml` file locate `<env name="DB_DATABASE" value=""/>` and add your test database name for the value
 7. Run the local server using `php artisan serve`
 8. To run tests use `php artisan test`

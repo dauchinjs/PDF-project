@@ -13,9 +13,6 @@ This project also includes PHPUnit testing for each back-end controller function
 
 ## Demonstration
 
-### Page
-![page](https://user-images.githubusercontent.com/93677423/229502813-f36cde7e-1d24-4977-bd00-fa4a5a957253.png)
-
 ### Pagination, delete a PDF document, single view of a PDF document
 [paginate-delete-single-view.webm](https://user-images.githubusercontent.com/93677423/229502075-b41e3cf7-e6a8-408a-818f-4cf8b0b5a049.webm)
 
